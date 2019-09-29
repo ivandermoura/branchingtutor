@@ -53,6 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'hello',
             ),
+            Text('hello2')
           ],
         ),
       ),
